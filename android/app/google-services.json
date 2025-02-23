@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "913634175596",
+    "project_id": "grip-341d3",
+    "storage_bucket": "grip-341d3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:913634175596:android:b0f2435cafe895fc514649",
+        "android_client_info": {
+          "package_name": "com.awesomeproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1D9PPBdrXoLhh6zDIB7z3vT41uvnkxU4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
